@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="25716" started-at="2019-11-16T11:16:40Z" finished-at="2019-11-16T11:17:05Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="25716" started-at="2019-11-16T11:16:40Z" finished-at="2019-11-16T11:17:05Z">
+      <class name="project.Acme">
+        <test-method status="PASS" signature="runAcme()[pri:0, instance:project.Acme@53b32d7]" name="runAcme" duration-ms="25629" started-at="2019-11-16T11:16:40Z" finished-at="2019-11-16T11:17:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runAcme -->
+      </class> <!-- project.Acme -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
